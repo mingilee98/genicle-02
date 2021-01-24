@@ -566,6 +566,7 @@ ul.slick-dots {
 
 .services1 {
 	margin-top: 50px;
+	margin-bottom: 100px;
 }
 .service-item img {
 	width: 100%;
@@ -1207,6 +1208,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information {
 	margin-top: 140px;
+	margin-bottom: 80px;
 }
 
 .contact-information .contact-item {
