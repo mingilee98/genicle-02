@@ -555,7 +555,13 @@ ul.slick-dots {
 	float: right;
 }
 
+.popup {position:absolute; right:150px; top:40px; border:1px solid #000; z-index:99999;}
 
+.popup div {background:#eaeaea; position: relative; height:30px;line-height:30px;padding-left:15px;}
+
+.popup div label {cursor:pointer;color:#666;vertical-align:middle;font-size:12px;}
+
+.popup div a {color:#666;position:absolute;right:15px; top:0px; font-size:12px; cursor:pointer;}
 
 
 /* Services */
